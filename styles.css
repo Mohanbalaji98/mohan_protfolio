@@ -10,7 +10,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('HeroImage.jpg');
+    background: url('https://pbs.twimg.com/media/EZKz1EPUwAA3_ZJ.jpg');
     background-size:cover;
     position:relative;
     padding: 0;
