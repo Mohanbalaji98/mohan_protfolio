@@ -10,7 +10,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('https://wallpaperaccess.com/full/1325192.jpg');
+    background: url('HeroImage.jpg');
     background-size:cover;
     position:relative;
     padding: 0;
