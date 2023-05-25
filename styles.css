@@ -75,3 +75,8 @@
 .servicesText:hover {
     border: 1px solid #008000;
 }
+
+.footer {
+    background-color: #808080;
+    text-align: center;
+}
